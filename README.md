@@ -54,6 +54,6 @@ We imported the tests from test_module.py to main.py for your convenience. The t
 
 Submitting ==>
 
-        Copy your project's URL and submit it to freeCodeCamp.
+Copy your project's URL and submit it to freeCodeCamp.
 
         https://replit.com/@maheshdbabar934/fcc-mean-var-std-1#main.py
